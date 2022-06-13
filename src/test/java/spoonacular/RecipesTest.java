@@ -1,5 +1,6 @@
 package spoonacular;
 
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
@@ -38,7 +39,9 @@ public class RecipesTest extends SpoonacularTest {
                     .prettyPrint();
         }
 
-    @Test
+
+        @Disabled
+        @Test
     void getSimilarRecipeTest() throws IOException {
         String actually = given()
                 .pathParam("id", 715538)
