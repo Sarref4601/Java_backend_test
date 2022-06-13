@@ -5,59 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9940dd6-6d4b-40bb-87ff-8c155f89c075" name="Changes" comment="update for CI">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/07be17ad-e24b-42e2-91c7-d23bc1f2d776-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a6ba8f3-bf30-4b7b-bbac-e4036a3722fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b687d9f-9cf7-4087-8428-806ebbcc530f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0bad366a-831e-4363-a8ef-f346f048437e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/23d6727e-406b-4395-bb5f-9d62ef748279-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/26c4f016-45f5-4a14-a116-378cbfa46caa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/274201d1-c4cd-4416-96cd-4b458d5bc6cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3236f6d0-166b-456b-b324-ad3d821904aa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e89b7aa-3e70-4136-841f-2bf9882425d6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/420766cf-bc64-495a-b95f-1786f9643363-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f27e39b-3521-45f6-bcc7-8ca0005b62ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5334582c-ae86-433c-a64f-9eda85d0aa9d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d03dd8d-8873-4b7d-8426-853a2a36ffd4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67716def-ce68-4b61-b534-d5e98ad8bbd3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7548924f-2fef-4cae-bf44-47978df6aa67-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/755d23cf-8791-4e04-89b7-837a70c5f6e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/788de8d7-f9a5-4250-a965-56c225205ec6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/818aaec6-64a8-4d20-bf47-d572da7d4ab5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a439718-a09f-4d87-a790-aeaab0afeac5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91250ca6-14a8-4629-b548-cece3609d023-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96eaefd7-3917-4e6b-8ad4-077badcce21d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/99c1c922-3b28-431f-a06a-8cbd8a886fa3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a5f065a6-444c-4d7d-a634-d9ff5c97c901-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a9221b0b-740e-4237-ae30-9cd187366212-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ada8d86d-1985-4858-9c62-40bae02a3a5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b2cf49e4-4513-4791-982c-a933871d99e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bca7550c-8651-4894-b43f-c427b4c1e7db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc589624-2537-4981-8d4d-10c52b7cdd8b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ccf634c8-6eee-494e-8a4b-3a234b81a615-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cee1f982-c840-4865-b484-9cb46ac8f337-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1efb7bc-434e-43ad-bb4a-67c941917238-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8ca099b-f305-4f53-9c13-afbbb806365b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da9d3ffc-7721-475e-b303-1c9d4b3bc278-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e66623dd-cbf5-4157-b130-8a35bde9fb40-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/ProductsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/ProductsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/spoonacular/RecipesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/spoonacular/RecipesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655133522601</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update for CI">
+      <created>1655134624048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655134624048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
