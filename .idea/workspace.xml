@@ -5,58 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9940dd6-6d4b-40bb-87ff-8c155f89c075" name="Changes" comment="update for CI">
-      <change afterPath="$PROJECT_DIR$/allure-results/07be17ad-e24b-42e2-91c7-d23bc1f2d776-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0a6ba8f3-bf30-4b7b-bbac-e4036a3722fe-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0b687d9f-9cf7-4087-8428-806ebbcc530f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0bad366a-831e-4363-a8ef-f346f048437e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/23d6727e-406b-4395-bb5f-9d62ef748279-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/26c4f016-45f5-4a14-a116-378cbfa46caa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/274201d1-c4cd-4416-96cd-4b458d5bc6cb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3236f6d0-166b-456b-b324-ad3d821904aa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3e89b7aa-3e70-4136-841f-2bf9882425d6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/420766cf-bc64-495a-b95f-1786f9643363-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4f27e39b-3521-45f6-bcc7-8ca0005b62ff-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5334582c-ae86-433c-a64f-9eda85d0aa9d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5d03dd8d-8873-4b7d-8426-853a2a36ffd4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67716def-ce68-4b61-b534-d5e98ad8bbd3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7548924f-2fef-4cae-bf44-47978df6aa67-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/755d23cf-8791-4e04-89b7-837a70c5f6e0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/788de8d7-f9a5-4250-a965-56c225205ec6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/818aaec6-64a8-4d20-bf47-d572da7d4ab5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8a439718-a09f-4d87-a790-aeaab0afeac5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/91250ca6-14a8-4629-b548-cece3609d023-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/96eaefd7-3917-4e6b-8ad4-077badcce21d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/99c1c922-3b28-431f-a06a-8cbd8a886fa3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a5f065a6-444c-4d7d-a634-d9ff5c97c901-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a9221b0b-740e-4237-ae30-9cd187366212-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ada8d86d-1985-4858-9c62-40bae02a3a5e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b2cf49e4-4513-4791-982c-a933871d99e8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bca7550c-8651-4894-b43f-c427b4c1e7db-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cc589624-2537-4981-8d4d-10c52b7cdd8b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ccf634c8-6eee-494e-8a4b-3a234b81a615-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cee1f982-c840-4865-b484-9cb46ac8f337-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d1efb7bc-434e-43ad-bb4a-67c941917238-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d8ca099b-f305-4f53-9c13-afbbb806365b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/da9d3ffc-7721-475e-b303-1c9d4b3bc278-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e66623dd-cbf5-4157-b130-8a35bde9fb40-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/025b0d29-4448-492d-bbc9-cf542345fa8b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0378a2c2-1553-4456-b769-ec724ad9f44e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/054a41ea-c2b5-4aba-97a2-d4e1b5263e73-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/161cfcd5-a38b-45d6-b7c4-8b692a9e4b18-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b62ffaa-880f-46ab-9b62-760bb8687f05-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/43549b61-aca0-46c5-ac08-a0430653d96e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46843dc5-dc9d-4272-9a25-2d5534d9acbf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65420a72-fb5d-4708-b31c-d55d61697ffb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a37159d-9815-46c1-8a6b-aaeda9f2b1e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b38edae-aadd-498b-bec8-e3bb1ff59756-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f98bb67-24ec-4217-986c-123f5cc7b9b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8dca720f-f17e-4010-ba9a-ffd71ba9c7b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/943f6dca-4c11-4b89-85dc-aa4eb8045ba1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94d2c7c2-435a-4a61-97a2-eb125a98008e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad10170c-93a9-4d4c-afd9-95315ec85467-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad732408-e10c-4e19-b5de-3e057ba3e4f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/afde10ca-9291-4589-bc2f-b944fe01f7c5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b40ff297-43ec-4dd2-8613-100f84091e6e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc3aaf78-2c56-4584-80c9-966ba199bf15-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d98c2a70-695e-45bd-a0b9-5dc3408424e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dfdf0f4f-c195-4789-9302-3469e14461db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3573a7d-6b32-41e7-9956-59fd80acda3f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3fce31c-cc3f-4da6-90d7-d2ea3f3c4cc3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fcf432b0-d37c-492c-b7e6-3094c6a04b9c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java.15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java.15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Categories.java.15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java.15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java.15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java.15" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" afterDir="false" />
@@ -93,19 +89,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sarref/Java/Java_backend_testing/Java_backend_test/src/test/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Sarref/Java/Java_backend_testing/Java_backend_test/src/test/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sarref\Java\Java_backend_testing\Java_backend_test\src\test\resources" />
@@ -255,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655134624048</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update for CI">
+      <created>1655135428423</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655135428423</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
